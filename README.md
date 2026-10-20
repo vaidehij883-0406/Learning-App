@@ -199,3 +199,4 @@ By default, LearnBatch runs locally with zero external accounts required. To con
 * [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — Comprehensive technical architecture, database diagram, and security model.
 * [`docs/API_REFERENCE.md`](docs/API_REFERENCE.md) — REST API endpoints specification and permissions matrix.
 * [`docs/SUPABASE_SETUP.md`](docs/SUPABASE_SETUP.md) — Step-by-step Supabase PostgreSQL and Storage bucket configuration.
+* [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md) — Step-by-step GitHub Pages frontend CI/CD & cloud backend hosting guide.

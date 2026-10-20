@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: process.env.VITE_BASE_PATH || (process.env.GITHUB_PAGES ? '/learning-app/' : '/'),
   plugins: [
     react(),
     tailwindcss(),
